@@ -4,15 +4,16 @@
 
 
 
-🌍JiEun🌏
-
-
-
-<br><br><br>
+**🌍JiEun🌏**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guz9)](https://github.com/guz9/github-readme-stats)
 
-<br><br><br>
+<br>
+
+**project**
+<br><br>
+
+
 
 <picture>
 <source
